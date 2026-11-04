@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 2954,
+      "bodyTextHash": "0f6d5a7babcabe9e33c564ff1ef5ec4f57eeb49565750e5fccddfef748b0fe89",
+      "bodyTextPrefix": "A//26 ADMISSION ARCHIVE OVERVIEW MY ADMISSION DESK CALENDAR ALL ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Overview — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 2632,
+      "bodyTextHash": "b1ee178f7e425c307d59d0fa5e02e7a2de644fba0f55d5ce71a55d0349edcc83",
+      "bodyTextPrefix": "MENU Search the archive Notices 2 VOL. 01 · DHAKA DESK · 04 NOV ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

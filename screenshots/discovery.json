@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/discovery",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Discovery log — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 1096,
+      "bodyTextHash": "45fde6e6aef03388dc78ea2f0d44b2595606b1a34efd6f27c6e3179039bc9c62",
+      "bodyTextPrefix": "A//26 ADMISSION ARCHIVE OVERVIEW MY ADMISSION DESK CALENDAR ALL ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/discovery.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Discovery log — ADMISSION//26",
+      "hasCanvas": false,
+      "bodyTextLen": 60152,
+      "bodyTextHash": "105e831019f5160e8be95ef7381d9d00037de46fae7d4d4c7767b5599d50e44c",
+      "bodyTextPrefix": "MENU Search the archive Notices 2 DISCOVERY DISCOVERY LOG What t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/discovery-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/discovery.json"
+}
