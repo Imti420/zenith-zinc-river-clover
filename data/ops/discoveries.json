@@ -14194,5 +14194,57 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/fe7e89c25a6d45b07c922f3aac5cdfec.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-05T18:22:47.995Z",
+    "title": "NOC of Dr. Habibon Naher, Department of Zoology",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/fe7e89c25a6d45b07c922f3aac5cdfec.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://neu.ac.bd/registration-card-notice",
+    "foundOn": "https://neu.ac.bd/feed",
+    "foundAt": "2026-11-05T18:23:51.973Z",
+    "title": "রেজিস্ট্রেশন কার্ড সংক্রান্ত বিজ্ঞপ্তি",
+    "kind": "page",
+    "score": 5,
+    "sameSite": true,
+    "id": "neu:https://neu.ac.bd/registration-card-notice",
+    "universityId": "neu",
+    "shortName": "NeU",
+    "downloaded": false
+  },
+  {
+    "url": "https://prstu.ac.bd/notice_document/Circular_20261104_v01.pdf",
+    "foundOn": "https://www.prstu.ac.bd/",
+    "foundAt": "2026-11-05T18:26:29.707Z",
+    "title": "বিশ্ববিদ্যালয়ে বিভিন্ন পদে নিয়োগ বিজ্ঞপ্তি (০৪-১১-২০২৬)",
+    "kind": "pdf",
+    "score": 18,
+    "sameSite": true,
+    "id": "prstu:https://prstu.ac.bd/notice_document/Circular_20261104_v01.pdf",
+    "universityId": "prstu",
+    "shortName": "PRSTU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.butex.edu.bd/admission-notice-of-11-batch-wpe-tem-dept-msc-in-textile-engineering",
+    "foundOn": "https://www.butex.edu.bd/homepage/",
+    "foundAt": "2026-11-05T18:29:22.384Z",
+    "title": "Admission Notice of 11th Batch (WPE, TEM Dept.) MSc in Textile Engineering",
+    "kind": "page",
+    "score": 14,
+    "sameSite": true,
+    "id": "butex:https://www.butex.edu.bd/admission-notice-of-11-batch-wpe-tem-dept-msc-in-textile-engineering",
+    "universityId": "butex",
+    "shortName": "BUTEX",
+    "downloaded": false
   }
 ]
