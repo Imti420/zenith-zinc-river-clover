@@ -14259,5 +14259,44 @@
     "universityId": "bmu-med",
     "shortName": "BMU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.butex.edu.bd/admission-announcement-for-pgd-tim-intake-06-batch-21-22-23-24",
+    "foundOn": "https://www.butex.edu.bd/feed",
+    "foundAt": "2026-11-06T14:24:06.636Z",
+    "title": "Admission Announcement for PGD-TIM Intake 06 (Batch- 21, 22, 23 &#038; 24)",
+    "kind": "page",
+    "score": 7,
+    "sameSite": true,
+    "id": "butex:https://www.butex.edu.bd/admission-announcement-for-pgd-tim-intake-06-batch-21-22-23-24",
+    "universityId": "butex",
+    "shortName": "BUTEX",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/examinaiton/1881098346580294.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-06T14:25:14.558Z",
+    "title": "Re-examination fee notice of MDM Program- 261 Term (1st and 3rd Semester) 2026-11-06",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/examinaiton/1881098346580294.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/878f30679acb18d34b0096af93adc0f1.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-06T14:29:43.523Z",
+    "title": "০৭/১১/২০২৬ তারিখ শনিবার জাতীয় বিপ্লব ও সংহতি দিবস সংক্রান্ত বিজ্ঞপ্তি",
+    "kind": "pdf",
+    "score": 10,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/878f30679acb18d34b0096af93adc0f1.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
