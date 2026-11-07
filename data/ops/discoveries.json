@@ -14311,5 +14311,31 @@
     "universityId": "bmu-med",
     "shortName": "BMU",
     "downloaded": false
+  },
+  {
+    "url": "https://prstu.ac.bd/notice_document/JBS_EP_2026-11-07.pdf",
+    "foundOn": "https://www.prstu.ac.bd/",
+    "foundAt": "2026-11-07T06:29:39.590Z",
+    "title": "জাতীয় বিপ্লব ও সংহতি দিবস - ২০২৬ উপলক্ষ্যে রচনা প্রতিযোগিতায় অংশগ্রহণ",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "prstu:https://prstu.ac.bd/notice_document/JBS_EP_2026-11-07.pdf",
+    "universityId": "prstu",
+    "shortName": "PRSTU",
+    "downloaded": false
+  },
+  {
+    "url": "https://prstu.ac.bd/notice_document/Notice_houseRental_dhaka_20261104_v01.pdf",
+    "foundOn": "https://www.prstu.ac.bd/",
+    "foundAt": "2026-11-07T06:29:39.590Z",
+    "title": "ঢাকাস্থ গেস্ট হাউজের জন্য বাড়িভাড়া সংক্রান্ত",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "prstu:https://prstu.ac.bd/notice_document/Notice_houseRental_dhaka_20261104_v01.pdf",
+    "universityId": "prstu",
+    "shortName": "PRSTU",
+    "downloaded": false
   }
 ]
