@@ -14350,5 +14350,70 @@
     "universityId": "du",
     "shortName": "DU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.du.ac.bd/du_post_details/notice/29111",
+    "foundOn": "https://www.du.ac.bd/",
+    "foundAt": "2026-11-08T07:56:25.348Z",
+    "title": "08 Nov প্রফেশনাল মাস্টার অব পপুলেশন হেলথ (এমপিএইচ) প্রোগ্রাম (জানুয়ারি ২০২৭ সেমিস্টার) ভর্তি বিজ্ঞপ্তি 08 Nov, 2026",
+    "kind": "page",
+    "score": 20,
+    "sameSite": true,
+    "id": "du:https://www.du.ac.bd/du_post_details/notice/29111",
+    "universityId": "du",
+    "shortName": "DU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notice/282_2049.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:58:04.207Z",
+    "title": "ভর্তি বিজ্ঞপ্তি (এমবিএ), ম্যানেজমেন্ট বিভাগ",
+    "kind": "pdf",
+    "score": 22,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notice/282_2049.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notices/282_2049.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:58:04.207Z",
+    "title": "Read More",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notices/282_2049.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notice/281_2018.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:58:04.207Z",
+    "title": "পুনঃভর্তি বিজ্ঞপ্তি (এমএসএস), সমাজবিজ্ঞান বিভাগ",
+    "kind": "pdf",
+    "score": 22,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notice/281_2018.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.rub.ac.bd/assets/files/notices/281_2018.pdf",
+    "foundOn": "https://www.rub.ac.bd/",
+    "foundAt": "2026-11-08T07:58:04.207Z",
+    "title": "Read More",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "rub:https://www.rub.ac.bd/assets/files/notices/281_2018.pdf",
+    "universityId": "rub",
+    "shortName": "RUB",
+    "downloaded": false
   }
 ]
