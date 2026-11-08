@@ -14415,5 +14415,44 @@
     "universityId": "rub",
     "shortName": "RUB",
     "downloaded": false
+  },
+  {
+    "url": "https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Scholarship_08.11.26.pdf",
+    "foundOn": "https://cu.ac.bd/",
+    "foundAt": "2026-11-08T15:00:39.939Z",
+    "title": "বিস্তারিত দেখুন",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "cu:https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Scholarship_08.11.26.pdf",
+    "universityId": "cu",
+    "shortName": "CU",
+    "downloaded": false
+  },
+  {
+    "url": "https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Transport-Rent_08.11.26.pdf",
+    "foundOn": "https://cu.ac.bd/",
+    "foundAt": "2026-11-08T15:00:39.939Z",
+    "title": "বিস্তারিত দেখুন",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "cu:https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Transport-Rent_08.11.26.pdf",
+    "universityId": "cu",
+    "shortName": "CU",
+    "downloaded": false
+  },
+  {
+    "url": "https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Academic_08.11.26.pdf",
+    "foundOn": "https://cu.ac.bd/",
+    "foundAt": "2026-11-08T15:00:39.939Z",
+    "title": "বিস্তারিত দেখুন",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "cu:https://cu.ac.bd/wp-content/uploads/2026/11/Notice_Academic_08.11.26.pdf",
+    "universityId": "cu",
+    "shortName": "CU",
+    "downloaded": false
   }
 ]
