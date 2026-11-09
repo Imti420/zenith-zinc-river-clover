@@ -14636,5 +14636,31 @@
     "universityId": "neu",
     "shortName": "NeU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.uap-bd.edu/admission-test-results/mpharmtech_f26_09112026.pdf",
+    "foundOn": "https://www.uap-bd.edu/admission_test_results.php",
+    "foundAt": "2026-11-09T21:06:47.089Z",
+    "title": "M. Pharm M. Pharm in Pharmaceutical Technology NEW",
+    "kind": "pdf",
+    "score": 9,
+    "sameSite": true,
+    "id": "uap:https://www.uap-bd.edu/admission-test-results/mpharmtech_f26_09112026.pdf",
+    "universityId": "uap",
+    "shortName": "UAP",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.uap-bd.edu/admission-test-results/clinicalpharm_f26_09112026.pdf",
+    "foundOn": "https://www.uap-bd.edu/admission_test_results.php",
+    "foundAt": "2026-11-09T21:06:47.089Z",
+    "title": "M. Pharm M. Pharm in Clinical Pharmacy NEW",
+    "kind": "pdf",
+    "score": 9,
+    "sameSite": true,
+    "id": "uap:https://www.uap-bd.edu/admission-test-results/clinicalpharm_f26_09112026.pdf",
+    "universityId": "uap",
+    "shortName": "UAP",
+    "downloaded": false
   }
 ]
