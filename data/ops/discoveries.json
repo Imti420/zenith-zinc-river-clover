@@ -15819,5 +15819,31 @@
     "universityId": "iu",
     "shortName": "IU",
     "downloaded": false
+  },
+  {
+    "url": "https://aaub.edu.bd/public/storage/upload/notice-file/261113023428-1655Masters%20Admission%20Circular%202026-27.pdf",
+    "foundOn": "https://aaub.edu.bd/content/admission-info",
+    "foundAt": "2026-11-13T06:13:19.864Z",
+    "title": "২০২৬-২৭ শিক্ষাবর্ষে স্নাতকোত্তর শ্রেণিতে ভর্তি বিজ্ঞপ্তি",
+    "kind": "pdf",
+    "score": 29,
+    "sameSite": true,
+    "id": "aaub:https://aaub.edu.bd/public/storage/upload/notice-file/261113023428-1655Masters%20Admission%20Circular%202026-27.pdf",
+    "universityId": "aaub",
+    "shortName": "AAUB",
+    "downloaded": false
+  },
+  {
+    "url": "https://aaub.edu.bd/public/storage/upload/notice-file/261113051613-6478Admission%20Instructions%20(Masters).pdf",
+    "foundOn": "https://aaub.edu.bd/content/admission-info",
+    "foundAt": "2026-11-13T06:13:19.864Z",
+    "title": "২০২৬-২৭ শিক্ষাবর্ষে স্নাতকোত্তর শ্রেণিতে ভর্তি নির্দেশিকা",
+    "kind": "pdf",
+    "score": 13,
+    "sameSite": true,
+    "id": "aaub:https://aaub.edu.bd/public/storage/upload/notice-file/261113051613-6478Admission%20Instructions%20(Masters).pdf",
+    "universityId": "aaub",
+    "shortName": "AAUB",
+    "downloaded": false
   }
 ]
