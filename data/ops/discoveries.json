@@ -15975,5 +15975,18 @@
     "universityId": "ru",
     "shortName": "RU",
     "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/2d368a46e67f1f3eae578bd5edbf1c2b.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-15T06:00:36.872Z",
+    "title": "Admission Circular and Application Form of Masters in Public Administration and Governance (MPAG), Department of Public Administration, Spring-2027",
+    "kind": "pdf",
+    "score": 21,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/2d368a46e67f1f3eae578bd5edbf1c2b.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
