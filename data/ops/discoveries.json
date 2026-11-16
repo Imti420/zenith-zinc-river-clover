@@ -16235,5 +16235,70 @@
     "universityId": "kurau",
     "shortName": "KurAU",
     "downloaded": false
+  },
+  {
+    "url": "https://prstu.ac.bd/notice_document/ANTIVAND_PRO_V01.pdf",
+    "foundOn": "https://www.prstu.ac.bd/",
+    "foundAt": "2026-11-16T11:42:42.177Z",
+    "title": "বিশ্ববিদ্যালয়ে দেশব্যাপী সন্ত্রাসী ও নাশকতামূলক কর্মকাণ্ডের প্রতিবাদে মিছিল ও সমাবেশ অনুষ্ঠিত",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "prstu:https://prstu.ac.bd/notice_document/ANTIVAND_PRO_V01.pdf",
+    "universityId": "prstu",
+    "shortName": "PRSTU",
+    "downloaded": false
+  },
+  {
+    "url": "https://forms.bmu.ac.bd/result_res_27",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-16T11:43:38.081Z",
+    "title": "Result of admission test of Phase-A Residency Program (March 2027)",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "bmu-med:https://forms.bmu.ac.bd/result_res_27",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
+  },
+  {
+    "url": "http://admission.aust.edu/syllabus-of-undergraduate-admission-test-for-fall-2022",
+    "foundOn": "https://www.aust.edu/",
+    "foundAt": "2026-11-16T11:45:43.001Z",
+    "title": "Syllabus for UG (ENGG./ARCH.) Admission Test, Fall 2022",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "aust:http://admission.aust.edu/syllabus-of-undergraduate-admission-test-for-fall-2022",
+    "universityId": "aust",
+    "shortName": "AUST",
+    "downloaded": false
+  },
+  {
+    "url": "https://baust.edu.bd/storage/notices/z3aw8kiatRbo9L8KJbRxe6MnkcCSmuHt3jbwilIZ.pdf",
+    "foundOn": "https://baust.edu.bd/archive/notices/drptr-bijngpti-uttrptr-oo-otirikt-khatalujseet-srbrah",
+    "foundAt": "2026-11-16T11:47:39.538Z",
+    "title": "Download Original Document",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "baust:https://baust.edu.bd/storage/notices/z3aw8kiatRbo9L8KJbRxe6MnkcCSmuHt3jbwilIZ.pdf",
+    "universityId": "baust",
+    "shortName": "BAUST",
+    "downloaded": false
+  },
+  {
+    "url": "https://baust.edu.bd/archive/notices/drptr-bijngpti-uttrptr-oo-otirikt-khatalujseet-srbrah",
+    "foundOn": "https://baust.edu.bd/",
+    "foundAt": "2026-11-16T11:47:39.539Z",
+    "title": "দরপত্র বিজ্ঞপ্তি: উত্তরপত্র ও অতিরিক্ত খাতা/লুজশীট সরবরাহ",
+    "kind": "page",
+    "score": 8,
+    "sameSite": true,
+    "id": "baust:https://baust.edu.bd/archive/notices/drptr-bijngpti-uttrptr-oo-otirikt-khatalujseet-srbrah",
+    "universityId": "baust",
+    "shortName": "BAUST",
+    "downloaded": false
   }
 ]
