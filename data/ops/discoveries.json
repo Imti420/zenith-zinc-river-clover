@@ -16638,5 +16638,57 @@
     "universityId": "jnu",
     "shortName": "JnU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/tender/1882075760752511.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-17T04:14:03.078Z",
+    "title": "eTender: Network Accessories (Lot A &amp; Lot B)",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/tender/1882075760752511.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/tender/1882075917464696.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-17T04:14:03.078Z",
+    "title": "eTender: Supply of Winter Liveries for BOU&#039;s Employees",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/tender/1882075917464696.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/officeorder/1882075605914870.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-17T04:14:03.078Z",
+    "title": "Office Order of Md. Shariful Islam , Administrative Officer, Sub-Regional Center Kaligonj, BOU",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/officeorder/1882075605914870.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://neu.ac.bd/cse-admission",
+    "foundOn": "https://neu.ac.bd/feed",
+    "foundAt": "2026-11-17T04:19:43.077Z",
+    "title": "সিএসই বিভাগে ২০২২-’২৩ শিক্ষাবর্ষের শিক্ষার্থীদের ৩য় বর্ষে ভর্তি",
+    "kind": "page",
+    "score": 7,
+    "sameSite": true,
+    "id": "neu:https://neu.ac.bd/cse-admission",
+    "universityId": "neu",
+    "shortName": "NeU",
+    "downloaded": false
   }
 ]
