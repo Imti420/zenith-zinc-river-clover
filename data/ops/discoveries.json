@@ -17236,5 +17236,31 @@
     "universityId": "duet",
     "shortName": "DUET",
     "downloaded": false
+  },
+  {
+    "url": "https://bup.edu.bd/public/upload/news/20261118_1794972706.pdf",
+    "foundOn": "https://www.bup.edu.bd/",
+    "foundAt": "2026-11-18T03:42:15.488Z",
+    "title": "Admission Notice: Bachelor’s and Master’s Programmes (Session 2026-2027)",
+    "kind": "pdf",
+    "score": 12,
+    "sameSite": true,
+    "id": "bup:https://bup.edu.bd/public/upload/news/20261118_1794972706.pdf",
+    "universityId": "bup",
+    "shortName": "BUP",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bup.edu.bd/public/upload/news/20261118_1794972706.pdf",
+    "foundOn": "https://www.bup.edu.bd/",
+    "foundAt": "2026-11-18T03:42:15.488Z",
+    "title": "Nov 18, 2026 Admission Notice: Bachelor’s and Master’s Programmes (Session 2026-2027)",
+    "kind": "pdf",
+    "score": 12,
+    "sameSite": true,
+    "id": "bup:https://www.bup.edu.bd/public/upload/news/20261118_1794972706.pdf",
+    "universityId": "bup",
+    "shortName": "BUP",
+    "downloaded": false
   }
 ]
