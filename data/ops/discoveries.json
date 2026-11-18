@@ -17600,5 +17600,18 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/342fe6febe0e1c481465217b0949a514.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-18T20:53:20.445Z",
+    "title": "দেশব্যাপী নৈরাজ্য ও দেশকে অস্থিতিশীল করার অপচেষ্টার বিরুদ্ধে জগন্নাথ বিশ্ববিদ্যালয়ের প্রতিবাদী কর্মসূচি",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/342fe6febe0e1c481465217b0949a514.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
