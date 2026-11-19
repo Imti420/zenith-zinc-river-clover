@@ -20304,5 +20304,70 @@
     "universityId": "butex",
     "shortName": "BUTEX",
     "downloaded": false
+  },
+  {
+    "url": "https://www.butex.edu.bd/wp-content/uploads/2026/11/20261119_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF.pdf",
+    "foundOn": "https://www.butex.edu.bd/bsc-in-textile-engineering-undergraduate-admission-l1-t1-2026-27-circular/",
+    "foundAt": "2026-11-19T19:13:35.871Z",
+    "title": "Download Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "butex:https://www.butex.edu.bd/wp-content/uploads/2026/11/20261119_%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%",
+    "universityId": "butex",
+    "shortName": "BUTEX",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.butex.edu.bd/bsc-in-textile-engineering-undergraduate-admission-l1-t1-2026-27-circular",
+    "foundOn": "https://www.butex.edu.bd/homepage/",
+    "foundAt": "2026-11-19T19:13:35.873Z",
+    "title": "BSc in Textile Engineering Undergraduate Admission L1-T1 2026-27 Circular",
+    "kind": "page",
+    "score": 13,
+    "sameSite": true,
+    "id": "butex:https://www.butex.edu.bd/bsc-in-textile-engineering-undergraduate-admission-l1-t1-2026-27-circular",
+    "universityId": "butex",
+    "shortName": "BUTEX",
+    "downloaded": false
+  },
+  {
+    "url": "https://osapsnew.bou.ac.bd/public/storage/programs/00/bed_circular_2027_1795059646679.pdf",
+    "foundOn": "https://www.bou.ac.bd/BOU/Admission",
+    "foundAt": "2026-11-19T19:14:55.317Z",
+    "title": "Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://osapsnew.bou.ac.bd/public/storage/programs/00/bed_circular_2027_1795059646679.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://osapsnew.bou.ac.bd/public/storage/programs/50/dcsa_circular_261_1795062759842.pdf",
+    "foundOn": "https://www.bou.ac.bd/BOU/Admission",
+    "foundAt": "2026-11-19T19:14:55.317Z",
+    "title": "Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://osapsnew.bou.ac.bd/public/storage/programs/50/dcsa_circular_261_1795062759842.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/8f1d09df19fb5b1b73777e641402bbdb.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-19T19:19:27.939Z",
+    "title": "NOC of Dr. Mohammad Khirul Islam, Department of Islamic Studies",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/8f1d09df19fb5b1b73777e641402bbdb.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
