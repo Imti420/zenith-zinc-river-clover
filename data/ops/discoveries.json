@@ -20603,5 +20603,57 @@
     "universityId": "gstu",
     "shortName": "GSTU",
     "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/de91734b4729c638b654d2d7273f5517.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-22T16:22:55.594Z",
+    "title": "Office Order of Sabrin Nahar Luchi, Department of Bangla",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/de91734b4729c638b654d2d7273f5517.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.duet.ac.bd/storage/notice/2026/Nov/2026-11-22_1795346688_289.pdf",
+    "foundOn": "https://www.duet.ac.bd/notice/admission-notices",
+    "foundAt": "2026-11-22T16:25:18.130Z",
+    "title": "Download",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "duet:https://www.duet.ac.bd/storage/notice/2026/Nov/2026-11-22_1795346688_289.pdf",
+    "universityId": "duet",
+    "shortName": "DUET",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.duet.ac.bd/storage/notice/2026/Nov/2026-11-22_1795346370_220.pdf",
+    "foundOn": "https://www.duet.ac.bd/notice/admission-notices",
+    "foundAt": "2026-11-22T16:25:18.130Z",
+    "title": "Download",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "duet:https://www.duet.ac.bd/storage/notice/2026/Nov/2026-11-22_1795346370_220.pdf",
+    "universityId": "duet",
+    "shortName": "DUET",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bmu.ac.bd/notice/2009?from=all",
+    "foundOn": "https://www.bmu.ac.bd/",
+    "foundAt": "2026-11-22T16:27:38.478Z",
+    "title": "22 Nov 2026 জেনারেল নার্স ও স্পেশালাইজড নার্স পদে নিয়োগ পরীক্ষার প্রবেশপত্র উত্তোলন সংক্রান্ত বিজ্ঞপ্তি NEW",
+    "kind": "page",
+    "score": 13,
+    "sameSite": true,
+    "id": "bmu-med:https://www.bmu.ac.bd/notice/2009?from=all",
+    "universityId": "bmu-med",
+    "shortName": "BMU",
+    "downloaded": false
   }
 ]
