@@ -20850,5 +20850,31 @@
     "universityId": "du",
     "shortName": "DU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.sau.edu.bd/uploads/pdf/notice/2026-11-24_6b051e5cac166.pdf",
+    "foundOn": "https://www.sau.edu.bd/",
+    "foundAt": "2026-11-24T06:54:13.512Z",
+    "title": "Download",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "sau:https://www.sau.edu.bd/uploads/pdf/notice/2026-11-24_6b051e5cac166.pdf",
+    "universityId": "sau",
+    "shortName": "SAU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.sau.edu.bd/uploads/pdf/notice/2026-11-24_6b051e5cac166.pdf",
+    "foundOn": "https://www.sau.edu.bd/",
+    "foundAt": "2026-11-24T07:01:45.462Z",
+    "title": "Download",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "agri:https://www.sau.edu.bd/uploads/pdf/notice/2026-11-24_6b051e5cac166.pdf",
+    "universityId": "agri",
+    "shortName": "AGRI",
+    "downloaded": false
   }
 ]
