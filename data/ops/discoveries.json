@@ -21279,5 +21279,44 @@
     "universityId": "agri",
     "shortName": "AGRI",
     "downloaded": false
+  },
+  {
+    "url": "https://www.iu.ac.bd/public/images/notice/3cf3f86ce5a2d68082a44018c49857f1.pdf",
+    "foundOn": "https://www.iu.ac.bd/",
+    "foundAt": "2026-11-25T21:59:54.005Z",
+    "title": "VIEW",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "iu:https://www.iu.ac.bd/public/images/notice/3cf3f86ce5a2d68082a44018c49857f1.pdf",
+    "universityId": "iu",
+    "shortName": "IU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/ce093b46b5d7cc6abf47b653313ce01d.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-25T22:00:01.683Z",
+    "title": "Admission Circular and Application Form for the Master of Pharmacy (Professional) Program, Spring 2027",
+    "kind": "pdf",
+    "score": 21,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/ce093b46b5d7cc6abf47b653313ce01d.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
+  },
+  {
+    "url": "https://jnu.ac.bd/assets/notice/edac4ab8b3974d28714af4f687fb52e7.pdf",
+    "foundOn": "https://www.jnu.ac.bd/",
+    "foundAt": "2026-11-25T22:00:01.683Z",
+    "title": "Office Order of Professor Munira Jahan, Department of Political Science",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "jnu:https://jnu.ac.bd/assets/notice/edac4ab8b3974d28714af4f687fb52e7.pdf",
+    "universityId": "jnu",
+    "shortName": "JnU",
+    "downloaded": false
   }
 ]
