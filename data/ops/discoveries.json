@@ -21578,5 +21578,18 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.du.ac.bd/du_post_details/notice/29287",
+    "foundOn": "https://www.du.ac.bd/",
+    "foundAt": "2026-11-27T23:27:02.808Z",
+    "title": "24 Nov Professional Masters in Artifical Intelligence and Data Engineering (PMAIDE) প্রোগ্রামর জানুয়ারী-২০২৭ সেমিস্টারে (৩য় ব্যাচ) ভর্তি বিজ্ঞপ্তি 24 Nov, 2026",
+    "kind": "page",
+    "score": 20,
+    "sameSite": true,
+    "id": "du:https://www.du.ac.bd/du_post_details/notice/29287",
+    "universityId": "du",
+    "shortName": "DU",
+    "downloaded": false
   }
 ]
