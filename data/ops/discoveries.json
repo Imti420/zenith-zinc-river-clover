@@ -21539,5 +21539,44 @@
     "universityId": "bou",
     "shortName": "BOU",
     "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/examinaiton/1882997152678350.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-27T14:53:04.566Z",
+    "title": "Corrected Exam schedule of BAgEd Program (261 Term, January - June 2026) 2026-11-27",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/examinaiton/1882997152678350.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://www.bou.ac.bd/upload/notice/officeorder/1882987141297110.pdf",
+    "foundOn": "https://www.bou.ac.bd/",
+    "foundAt": "2026-11-27T14:53:04.566Z",
+    "title": "Office Order of Dr. Md. Zahangir Alam, Professor (Bangla), SSHL, BOU",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://www.bou.ac.bd/upload/notice/officeorder/1882987141297110.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
+  },
+  {
+    "url": "https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795754395214.pdf",
+    "foundOn": "https://www.bou.ac.bd/BOU/Admission",
+    "foundAt": "2026-11-27T14:53:08.451Z",
+    "title": "Circular",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "bou:https://osapsnew.bou.ac.bd/public/storage/programs/52/b_sc_in_cse_circular_12th_batch_261_term__1795754395214.pdf",
+    "universityId": "bou",
+    "shortName": "BOU",
+    "downloaded": false
   }
 ]
