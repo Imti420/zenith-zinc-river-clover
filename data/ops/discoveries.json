@@ -21591,5 +21591,18 @@
     "universityId": "du",
     "shortName": "DU",
     "downloaded": false
+  },
+  {
+    "url": "https://pust.ac.bd/includes/images/notices/Notice%202025_220.pdf",
+    "foundOn": "https://pust.ac.bd/",
+    "foundAt": "2026-11-28T05:05:12.973Z",
+    "title": "Download",
+    "kind": "pdf",
+    "score": 6,
+    "sameSite": true,
+    "id": "pust:https://pust.ac.bd/includes/images/notices/Notice%202025_220.pdf",
+    "universityId": "pust",
+    "shortName": "PUST",
+    "downloaded": false
   }
 ]
